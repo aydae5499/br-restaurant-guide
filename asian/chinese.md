@@ -2,7 +2,7 @@
 ## Asian --> Chinese
 ---
 Select a restaurant:
-## Panda https://www.pandabrooklyn.com/
+## china pagoda https://whereyoueat.com/China-Pagoda-358.html
 ---
-Back to Asian  
+Back to Asian
 Start Over
